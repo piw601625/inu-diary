@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "inu-diary",
+    "slug": "inu-diary",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "inu-diary"
+}
